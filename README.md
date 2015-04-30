@@ -5,6 +5,7 @@
 ```
 src
 └── coffee
+    ├── namespace.coffee
     ├── collection
     ├── controller
     ├── main.coffee
